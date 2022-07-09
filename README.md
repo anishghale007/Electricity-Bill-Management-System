@@ -4,10 +4,10 @@ A Java web-based electricity bill management system using MySQL database for aut
 
 Libraries used:  </br>
 
-javax.servlet api </br> 
-javax.servlet.jsp.jstl api  </br>
-jsp-api  </br>
-jstl-1.2   </br>
-mysql-connector-java
+- javax.servlet api </br> 
+- javax.servlet.jsp.jstl api  </br>
+- jsp-api  </br>
+- jstl-1.2   </br>
+- mysql-connector-java
 
 
